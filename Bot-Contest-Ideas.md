@@ -1,2 +1,3 @@
 - Capture the Sheep
 - Everyone is given a .schematic for some building, and their bot need to build it with no user intervention
+- fastest to gather a block/all blocks
