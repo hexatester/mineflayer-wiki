@@ -9,6 +9,10 @@ Different difficulty levels, like:
 - orientation-sensitive blocks
 - mining out blocks that are air in the schematic
 
+Different gamemodes:
+- survival
+- creative
+
 ## Gather a block/all blocks
 
 ## Race to the nether
