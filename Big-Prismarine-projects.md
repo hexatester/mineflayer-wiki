@@ -17,6 +17,7 @@ also go to [https://github.com/PrismarineJS/mineflayer/issues/974](https://githu
 
 ## easier maintenance
 * better procedure to update mcdata, see [PrismarineJS/minecraft-data#283](https://github.com/PrismarineJS/minecraft-data/issues/283)
+* update flying-squid to latest versions [PrismarineJS/flying-squid#341](https://github.com/PrismarineJS/flying-squid/issues/341)
 
 ## more protocol support
 * bedrock is the future of minecraft, let's have support for it [PrismarineJS/node-minecraft-protocol#235](https://github.com/PrismarineJS/node-minecraft-protocol/issues/235)
