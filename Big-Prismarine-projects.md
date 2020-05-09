@@ -1,3 +1,11 @@
+Here are important tasks that would make PrismarineJS go one level beyond
+
+
+Want to do something ? go talk about it in the issues or in advanced coders room at gitter or discord
+also see [https://github.com/orgs/PrismarineJS/projects/9](https://github.com/orgs/PrismarineJS/projects/9)
+also go to [https://github.com/PrismarineJS/mineflayer/issues/974](https://github.com/PrismarineJS/mineflayer/issues/974) to talk about it
+
+
 ## optimization
 * protodef can be optimized up to 100x [PrismarineJS/node-minecraft-protocol#711](https://github.com/PrismarineJS/node-minecraft-protocol/issues/711)
 
@@ -13,9 +21,3 @@
 
 ## more doc => more users and less questions
 * we need tutorials for mineflayer [#908](https://github.com/PrismarineJS/mineflayer/issues/908)
-
-Want to do something ? go talk about it in the issues or in advanced coders room at gitter or discord
-
-also see [https://github.com/orgs/PrismarineJS/projects/9](https://github.com/orgs/PrismarineJS/projects/9)
-
-also go to [https://github.com/PrismarineJS/mineflayer/issues/974](https://github.com/PrismarineJS/mineflayer/issues/974) to talk about it
