@@ -5,6 +5,8 @@ Want to do something ? go talk about it in the issues or in advanced coders room
 also see [https://github.com/orgs/PrismarineJS/projects/9](https://github.com/orgs/PrismarineJS/projects/9)
 also go to [https://github.com/PrismarineJS/mineflayer/issues/974](https://github.com/PrismarineJS/mineflayer/issues/974) to talk about it
 
+## AI
+* one of the original goal of mineflayer, and still a very interesting usecase today was to make possible a bot that can solve the game, can we do this as part of https://github.com/PrismarineJS/mineflayer/issues/981 ?
 
 ## optimization
 * protodef can be optimized up to 100x [PrismarineJS/node-minecraft-protocol#711](https://github.com/PrismarineJS/node-minecraft-protocol/issues/711)
