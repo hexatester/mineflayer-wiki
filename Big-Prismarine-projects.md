@@ -9,7 +9,7 @@ also go to [https://github.com/PrismarineJS/mineflayer/issues/974](https://githu
 * one of the original goal of mineflayer, and still a very interesting usecase today was to make possible a bot that can solve the game, can we do this as part of https://github.com/PrismarineJS/mineflayer/issues/981 ?
 
 ## optimization
-* protodef can be optimized up to 100x [PrismarineJS/node-minecraft-protocol#711](https://github.com/PrismarineJS/node-minecraft-protocol/issues/711)
+* protodef can be optimized up to 100x [PrismarineJS/node-minecraft-protocol#711](https://github.com/PrismarineJS/node-minecraft-protocol/issues/711) + having a compiler for the json format would unlock compiling into other languages too
 
 ## visualization
 * displaying the world of the bot/server in a browser would be amazing [PrismarineJS/prismarine-world#17](https://github.com/PrismarineJS/prismarine-world/issues/17)
