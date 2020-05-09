@@ -17,3 +17,5 @@
 Want to do something ? go talk about it in the issues or in advanced coders room at gitter or discord
 
 also see [https://github.com/orgs/PrismarineJS/projects/9](https://github.com/orgs/PrismarineJS/projects/9)
+
+also go to [https://github.com/PrismarineJS/mineflayer/issues/974](https://github.com/PrismarineJS/mineflayer/issues/974) to talk about it
