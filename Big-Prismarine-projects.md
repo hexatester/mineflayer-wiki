@@ -24,3 +24,7 @@ also go to [https://github.com/PrismarineJS/mineflayer/issues/974](https://githu
 
 ## more doc => more users and less questions
 * we need tutorials for mineflayer [#908](https://github.com/PrismarineJS/mineflayer/issues/908) one form this could also take is a blog post / reddit posts to increase mineflayer popularity even more
+
+## more libs => less duplicated code and more users
+* make a generic proxy lib on top of node-minecraft-protocol for fun and profit https://github.com/PrismarineJS/node-minecraft-protocol/issues/712
+
