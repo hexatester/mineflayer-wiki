@@ -22,4 +22,4 @@ also go to [https://github.com/PrismarineJS/mineflayer/issues/974](https://githu
 * bedrock is the future of minecraft, let's have support for it [PrismarineJS/node-minecraft-protocol#235](https://github.com/PrismarineJS/node-minecraft-protocol/issues/235)
 
 ## more doc => more users and less questions
-* we need tutorials for mineflayer [#908](https://github.com/PrismarineJS/mineflayer/issues/908)
+* we need tutorials for mineflayer [#908](https://github.com/PrismarineJS/mineflayer/issues/908) one form this could also take is a blog post / reddit posts to increase mineflayer popularity even more
