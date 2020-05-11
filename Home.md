@@ -1,11 +1,9 @@
-# Mineflayer Wiki
+# Mineflayer
 
 Welcome to the mineflayer wiki!
 Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 
-## Mineflayer
-
-Mineflayer is a library for building minecraft bot. Mineflayer build on top of [node minecraft protocol](https://github.com/PrismarineJS/node-minecraft-protocol)
+Mineflayer is a library for building minecraft bot. Mineflayer build on top of [node minecraft protocol](https://github.com/PrismarineJS/node-minecraft-protocol) and [Javascript Event](https://nodejs.org/api/events.html).
 
 ## Features
 
